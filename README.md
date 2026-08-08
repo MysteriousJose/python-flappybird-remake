@@ -1,4 +1,4 @@
-# Flappybird - Python Pong Remake
+# Flappybird - Python Game Remake
 
 A fan-made recreation of the classic flappybird arcade game built entirely in Python using the CMU Graphics library.
 
