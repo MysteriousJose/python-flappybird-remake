@@ -1,4 +1,4 @@
-
+from time import sleep
 from cmu_graphics import *
 ### Directions ###
 # Welcome To Flappy Bird #
